@@ -3,5 +3,5 @@
 MinimumDecayTime = 4
 #Maximum time in ticks for leaf decay. Must be higher than MinimumDecayTime!
 #Range: > 0
-MaximumDecayTime = 7
+MaximumDecayTime = 11
 
