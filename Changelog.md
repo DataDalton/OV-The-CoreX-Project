@@ -5,8 +5,8 @@
 Disable silent gear starter blueprints
 
 Log begone
- Disable apotheosis rogue spawner error message
- Disabled other log spam messages
+ - Disable apotheosis rogue spawner error message
+ - Disabled other log spam messages
 
 Re-unbound all keybinds
 
@@ -38,12 +38,12 @@ Supplementaries
 **Quests**
 
 Prepare chapters
- Getting Started
- Challenges
- End Game
- Actually end game
-  Avaritia
-  Draconic Evolution
+ - Getting Started
+ - Challenges
+ - End Game
+ - Actually end game
+   - Avaritia
+   -  Draconic Evolution
 
 ---------------------------------------------------------
 
