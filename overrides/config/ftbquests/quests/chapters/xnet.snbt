@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "xnet"
+	group: "713BC62A2750293E"
+	icon: "xnet:controller"
+	id: "50E19DAF609805F9"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "Xnet"
+}
