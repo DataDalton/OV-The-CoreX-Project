@@ -37,6 +37,7 @@ Elevator ID
  - sameColor = false -> true
 
 Ensorcellation
+ - "Mobs Teleport Players" = false -> true
  - "Mobs Knockback Players" = false -> true
 
 Extra storage
