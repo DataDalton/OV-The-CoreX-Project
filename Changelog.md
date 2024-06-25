@@ -92,6 +92,8 @@ Apotheosis
  - Magic protection
    - I:"Max Level"=9 -> 10
 
+FTB Quests
+
 **Update**
 
 Update Balm
