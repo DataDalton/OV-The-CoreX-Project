@@ -4,6 +4,7 @@
 
 FTBQuests
  - Create quest outline
+    - Worked on titles and descriptions
 
 ---------------------------------------------------------
 
