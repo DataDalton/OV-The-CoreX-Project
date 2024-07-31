@@ -27,6 +27,33 @@
       "result": "deny"
     },
     {
+      "mob": "quark:stoneling",
+      "when": "onjoin",
+      "mincount": {
+        "amount": 4,
+        "perplayer": true
+      },
+      "result": "deny"
+    },
+    {
+      "mob": "quark:forgotten",
+      "when": "onjoin",
+      "mincount": {
+        "amount": 2,
+        "perplayer": true
+      },
+      "result": "deny"
+    },
+    {
+      "mob": "quark:toretoise",
+      "when": "onjoin",
+      "mincount": {
+        "amount": 4,
+        "perplayer": true
+      },
+      "result": "deny"
+    },
+    {
       "mob": ["minecraft:squid", "minecraft:glow_squid"],
       "when": "onjoin",
       "mincount": {
@@ -54,10 +81,28 @@
       "result": "deny"
     },
     {
-      "mob": ["mna:mushroom_soldier", "mna:witch_hunter", "mna:barkling", "mna:hulking_zombie", "mna:pixie", "mna:skeleton_assassin", "mna:spell_breaker", "mna:chatterer", "mna:lantern_wraith", "mna:demon_imp", "mna:living_ward"],
+      "mob": ["mna:mushroom_soldier", "mna:witch_hunter", "mna:barkling", "mna:hulking_zombie", "mna:pixie", "mna:skeleton_assassin", "mna:spell_breaker", "mna:chatterer", "mna:demon_imp", "mna:living_ward"],
       "when": "onjoin",
       "mincount": {
         "amount": 3,
+        "perplayer": true
+      },
+      "result": "deny"
+    },
+    {
+      "mob": ["irons_spellbooks:necromancer"],
+      "when": "onjoin",
+      "mincount": {
+        "amount": 2,
+        "perplayer": true
+      },
+      "result": "deny"
+    },
+    {
+      "mob": ["mna:lantern_wraith"],
+      "when": "onjoin",
+      "mincount": {
+        "amount": 1,
         "perplayer": true
       },
       "result": "deny"
@@ -67,7 +112,7 @@
       "mob": ["minecraft:creeper", "minecraft:skeleton", "minecraft:spider", "minecraft:zombie", "minecraft:drowned", "minecraft:enderman"],
       "when": "onjoin",
       "mincount": {
-        "amount": 4,
+        "amount": 12,
         "perplayer": true
       },
       "result": "deny"
@@ -113,7 +158,7 @@
       "passive": true,
       "when": "onjoin",
       "mincount": {
-        "amount": 35,
+        "amount": 40,
         "perplayer": true
       },
       "result": "deny"

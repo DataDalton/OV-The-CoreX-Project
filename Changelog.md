@@ -1,3 +1,94 @@
+**Version: 1.0.1**
+
+**Config**
+
+Logbegone
+ - "Radium Class Analysis Error" - Remove log spam
+ - "Tried to load unrecognized recipe" - Remove log spam
+ - "Insufficient number of affixes" - Remove log spam
+ - "Unable to find registry for tag directory" - Remove log spam
+
+FTB Backups
+ - Limited to 3 max base - Server will be on 0 due to storage issue
+
+FTB Ranks
+ - Active title 1 day playtime
+ - Skilled title 4 days playtime
+
+Scaling Health
+ - Max health 100 -> 1000
+ - Max attack damage gained from scaling health 10 -> 30
+ - Invisibility effect applied to special mob - disabled (shouldn't have been possible in first place, but this is just to make sure)
+ - Max difficulty 50 -> 100
+ - On hostile mob killed difficulty + 1 -> difficulty + 0.1
+ - On player killed difficulty + 1 -> difficulty + 3
+ - Dimension scale
+  - The End 1.05 -> 1.5
+  - The Nether 1.05 -> 1.25
+  - Overworld 1.025 -> 1.02
+
+In Control
+ - Overworld passive overall mob cap 35 -> 40
+ - Adjusted irons spellbooks necromancer, mna lantern wraith
+ - Adjusted basic hostiles (creeper, skeleton, spider, zombie, drowned, enderman)
+ - Adjusted quark toretoise, stoneling, forgotten
+
+Fancy Menu
+ - Removed conflicting button - I think this fixed it, I am unable to currently tell
+
+Increment
+ - Game title
+ - Better compatibility checker
+
+**Update**
+
+Ars Nouveau
+
+Cognition
+
+Common Capabilities
+
+Cucumber Library
+
+Cyclops Core
+
+Embeddium
+
+ExtendedAE
+
+FTB Library
+
+JAOPCA
+
+Just Enough Items
+
+ModernFix
+
+Modonomicon
+
+PackagedAuto
+
+PackagedAvaritia
+
+PackagedExCrafting
+
+Re:Avaritia
+
+Recipe Essentials
+
+Resourceful Lib
+
+UtilitiX
+
+
+**Remove**
+
+Super saturation
+
+FTB Quests Optimizer
+
+---------------------------------------------------------
+
 **Version: 1.0.0**
 
 **Config**

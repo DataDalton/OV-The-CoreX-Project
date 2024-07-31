@@ -13,6 +13,11 @@
 		ftbchunks.max_claimed: 75
 		ftbchunks.max_force_loaded: 10
 		ftbranks.name_format: "&a{name}"
+		condition: {
+			type: "playtime"
+			time: 1
+			time_unit: "days"
+    	}
 	}
 	skilled: {
 		name: "Skilled"
@@ -20,6 +25,11 @@
 		ftbchunks.max_claimed: 100
 		ftbchunks.max_force_loaded: 10
 		ftbranks.name_format: "&b{name}"
+		condition: {
+			type: "playtime"
+			time: 4
+			time_unit: "days"
+    	}
 	}
 	traveler: {
 		name: "Traveler"

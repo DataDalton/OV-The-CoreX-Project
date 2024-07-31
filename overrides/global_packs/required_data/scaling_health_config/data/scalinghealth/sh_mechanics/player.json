@@ -1,11 +1,11 @@
 {
   "startingHealth" : 20,
   "minHealth" : 20,
-  "maxHealth" : 100,
+  "maxHealth" : 1000,
   "setOnDeath": "maxHealth",
   "levelsPerHp": 0,
   "hpPerLevel":  0,
-  "maxAttackDamage" : 10,
+  "maxAttackDamage" : 30,
   "regen" : {
     "initialDelay": 20,
     "tickDelay": 5,

@@ -40,12 +40,6 @@
       "durationInMinutes" : 10.0
     },
     {
-      "effect" : "minecraft:invisibility",
-      "level" : 1,
-      "minDifficulty" : 35,
-      "durationInMinutes" : 10.0
-    },
-    {
       "effect" : "minecraft:resistance",
       "level" : 1,
       "minDifficulty" : 40,
