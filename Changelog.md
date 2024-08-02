@@ -1,3 +1,17 @@
+**Version: 1.0.1 Hotfix**
+
+**Remove**
+
+These mods were always disabled, however, has been left in for no reason and have given issues for other launchers than curseforge
+
+Forbidden and Arcanus
+
+Valhelsia Core
+
+Valhelsia Structures
+
+---------------------------------------------------------
+
 **Version: 1.0.1**
 
 **Config**
