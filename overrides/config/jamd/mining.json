@@ -1,5 +1,5 @@
 {
-  "oreMultiplier": 1,
+  "oreMultiplier": 1.85,
   "ores": [
     {
       "ore_size": 5,
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "ore_size": 4,
+      "ore_size": 8,
       "discard_on_air_chance": 0.0,
       "modifiers": [
         {
@@ -750,7 +750,7 @@
       ]
     },
     {
-      "ore_size": 8,
+      "ore_size": 10,
       "discard_on_air_chance": 0.0,
       "modifiers": [
         {
@@ -2118,7 +2118,7 @@
       ]
     },
     {
-      "ore_size": 9,
+      "ore_size": 14,
       "discard_on_air_chance": 0.0,
       "modifiers": [
         {
@@ -3480,7 +3480,7 @@
       ]
     },
     {
-      "ore_size": 9,
+      "ore_size": 14,
       "discard_on_air_chance": 0.0,
       "modifiers": [
         {

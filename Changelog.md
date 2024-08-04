@@ -1,3 +1,75 @@
+**Version: 1.0.2**
+
+**Config**
+
+Sparse structures
+ - Spread factor 2.5 -> 1.5 - Already applied to server, reflecting to client
+
+Overworld mining dimension
+ - Iron and nickel ore generation rate higher - Already applied to server, reflecting to client
+ - Base multiplier of ore generation has been increased substantially - Already applied to server, reflecting to client
+
+Logbegone
+ - "died in a Well of Suffering" - Already applied to server, reflecting to client
+
+Hostile neural networks
+ - Dragon - Added dragon head to prediction - Already applied to server, reflecting to client
+
+Skill tree apotheosis integration
+ - Disable apotheosis gems from dropping when breaking ores due to quarries being unable to pick it up - Already applied to server, reflecting to client
+
+Login protection
+ - Double time 1000 -> 2000 - Already applied to server, reflecting to client
+
+Rftools builder
+ - Max shape size cut in half - Already applied to server, reflecting to client
+
+**Update**
+
+Botania
+
+Botany Pots
+
+Botany Trees
+
+Cognition
+
+Corail tombstone
+
+Cucumber library
+
+Evilcraft
+
+Just enough items
+
+Mana and artifice
+
+Occultism
+
+Powah
+
+Quark
+
+Storage drawers
+
+UtilitiX
+
+Zeta
+
+**Add**
+
+Tom's simple storage
+
+Dank storage
+
+Ender tanks
+
+Entangled
+
+Structure compass
+
+---------------------------------------------------------
+
 **Version: 1.0.1 Hotfix**
 
 **Remove**

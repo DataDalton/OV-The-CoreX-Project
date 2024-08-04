@@ -80,7 +80,7 @@
 	maxBuilderOffset = 260
 	#Maximum dimension of the shape when a shape card is used in the builder
 	#Range: > 0
-	maxBuilderDimension = 512
+	maxBuilderDimension = 256
 	#If true we go back to the old (wrong) sphere/cylinder calculation for the builder/shield
 	oldSphereCylinderShape = false
 
